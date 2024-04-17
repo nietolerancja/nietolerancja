@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
